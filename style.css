@@ -31,10 +31,13 @@ body {
       "fourth fifth fifth third";
     width: 1150px;
     height: 610px;
-    /* width: 80%; */
 }
   
 .first {
+    background-image: url(images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 362px 0px;
+    background-size: 120px;
     background-color: #733fc8;
     display: grid;
     grid-template-columns: 0.1fr 1fr;
@@ -54,14 +57,12 @@ body {
 .image {
     align-self: center;
     grid-area: image;
-    z-index: 2;
 }
   
 .text {
     align-self: center;
     grid-area: text;
     margin-left: 0.500rem;
-    z-index: 2;
 }
   
 .body { grid-area: body; }
@@ -181,7 +182,11 @@ body {
 
 .name {
     font-size: 1rem;
-    font-weight: 600;
+    font-weight: 500;
+}
+
+.black {
+    color: #5a5f6b;
 }
 
 .white {
@@ -194,26 +199,19 @@ body {
 
 .portrait {
     border-radius: 50%;
-    width: 50px;
+    width: 38px;
     border: 3px solid #ffffff90;
 }
 
 h1 {
     font-size: 1.2rem;
+    font-weight: 400;
     margin-bottom: 1rem;
 }
 
 .paragraph {
     font-size: 0.940rem;
     color: #a4a9ad;
-}
-
-.bg-img {
-    width: 80px;
-    position: absolute;
-    top: 36px;
-    left: 520px;
-    z-index: 0;
 }
 
 .attribution a { 
@@ -252,7 +250,9 @@ footer {
         margin: 1rem auto 4rem auto;
     }
       
-    .first { 
+    .first {
+        background-position: 210px 0px;
+        background-size: 140px;
         display: grid;
         grid-template-columns: 0.3fr 1fr;
         grid-template-rows: 0.5fr 1.5fr; 
