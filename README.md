@@ -10,7 +10,9 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow <br><br>
+- Mobile-first workflow
+
+Preview it here [Testimonials-grid-section](https://www.frontendmentor.io/solutions/build-a-testimonial-grid-section-using-html-css-flexbox-css-grid-OxYiDDlC3P) <br><br>
 
 ## Author
 
