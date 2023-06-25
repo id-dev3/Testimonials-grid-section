@@ -1,15 +1,19 @@
 # Frontend Mentor | Testimonials-grid-section
 
-![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Testimonials grid section coding challenge](./design/Screenshot-of-my-own-design.png)
 
-The challenge was to build out this testimonials grid section and get it looking as close to the design as possible.
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/build-a-testimonial-grid-section-using-html-css-flexbox-css-grid-OxYiDDlC3P). Frontend Mentor challenges help us improve our coding skills by building realistic projects. <br><br>
 
 ## Built with
 
-**HTML | CSS | Flexbox | CSS Grid**
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow <br><br>
 
 ## Author
 
-Personal Website -- <a href="https://blackfury117.github.io/">Black Fury</a> <br>
-
-Frontend Mentor -- <a href="https://www.frontendmentor.io/profile/BlackFury117">@BlackFury117</a>
+- Website - [Black Fury](https://blackfury117.github.io/)
+- Frontend Mentor - [@BlackFury117](https://www.frontendmentor.io/profile/BlackFury117)
+- Twitter - [@blackfury117](https://twitter.com/blackfury117)
