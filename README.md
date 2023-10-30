@@ -10,7 +10,9 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow <br><br>
+- Mobile-first workflow
+
+Preview it here [Testimonials-grid-section](https://blackfury117.github.io/Testimonials-grid-section/) <br><br>
 
 ## Author
 
